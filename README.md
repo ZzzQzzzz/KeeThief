@@ -1,3 +1,5 @@
+这里用 powershell脚本keethief.ps1方便, 需要在 KeePass 2.X运行的时候执行脚本,最好是写一个监视进程运行的脚本呢
+
 # KeeThief
 
 Allows for the extraction of KeePass 2.X key material from memory, as well as the backdooring and enumeration
